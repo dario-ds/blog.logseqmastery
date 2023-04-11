@@ -1,0 +1,139 @@
+baseURL: ""
+title: Logseq Mastery blog
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: ExampleSite
+  description: "ExampleSite description"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: Me
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  ShareButtons: ["linkedin", "twitter", "reddit"] # To customize which share buttons to be enabled on page
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "/favicon.ico"
+    favicon16x16:  "/favicon-16x16.png"
+    favicon32x32:  "/favicon-32x32.png"
+    apple_touch_icon:  "/apple-touch-icon.png"
+    safari_pinned_tab:  "/safari-pinned-tab.svg"
+
+  label:
+    text: "Logseq Mastery blog"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: false # needs to be explicitly set
+    title: ExampleSite
+    subtitle: "This is subtitle"
+    imageUrl: "<img location>"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: my image
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Welcome to the Logseq Mastery blog"
+    Content:
+      "The purpose of this site is to provide additional free resources in addition to the OneStutteringMind YouTube channel. Want to purchase Logseq Mastery? Head over to the main website [here](https://www.logseqmastery.com)."
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/OneStuttering"
+    - name: kofi
+      url: "https://ko-fi.com/onestutteringmind"
+    - name: youtube
+      url: "https://www.youtube.com/@OneStutteringMind"
+
+  cover:
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+    main:
+        - identifier: tutorials
+          name: How-to guides
+          url: /categories/how-to-guides
+          weight: 20
+        - identifier: tags
+          name: Tags
+          url: /tags
+          weight: 30
+        - identifier: thought pieces
+          name: Thought pieces
+          url: /categories/thought-pieces
+          weight: 10
+        - identifier: search
+          name: Search
+          url: /search/
+          weight: 100
+
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
+
+hardWraps: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary

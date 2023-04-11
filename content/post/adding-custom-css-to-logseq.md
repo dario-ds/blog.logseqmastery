@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Adding custom CSS to Logseq"
+title: "Adding custom CSS to your Logseq database"
 date: 2023-02-27T15:36:00Z
 description: "Custom CSS is a great way to make your database more visually pleasing. In this guide I break down a simple way to implement CSS in your database."
 summary: "Custom CSS is a great way to make your database more visually pleasing. In this guide I break down a simple way to implement CSS in your database."

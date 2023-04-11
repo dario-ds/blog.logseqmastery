@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: precious-meerkat-129d24.netlify.app/sitemap.xml

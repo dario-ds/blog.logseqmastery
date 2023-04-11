@@ -72,7 +72,7 @@ The image below is taken from Logseq Mastery where there is a full video dedicat
 
 If you found this post helpful, you might enjoy the full Logseq Mastery course. The course has a wealth of videos, detailed write-ups and diagrams to quickly master Logseq and save you plenty of time and headaches.
 
-{{< button href="https://www.logseqmastery.com" >}}Take me to Logseq Mastery{{< /button >}}
+{{< button-one href="https://www.logseqmastery.com" >}}Take me to Logseq Mastery{{< /button-one >}}
 {{< rawhtml >}}
   <p class="speshal-fancy-custom">
     Want to browse the course outline first? Click on the button below to see the user guide for Logseq Mastery and to view the latest updates.
@@ -80,4 +80,4 @@ If you found this post helpful, you might enjoy the full Logseq Mastery course. 
 {{< /rawhtml >}}
 
 
-{{< button href="https://updates.logseqmastery.com" >}}Logseq Mastery user guide and updates{{< /button >}}
+{{< button-two href="https://updates.logseqmastery.com" >}}Logseq Mastery user guide and updates{{< /button-two >}}

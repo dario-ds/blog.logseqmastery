@@ -1,6 +1,29 @@
-a.markdown-btn {
+a.markdown-btn-1 {
     font-size: 30;
     font-family: inherit;
+    color: white;
+    background-color: #7db32e;
+    font-weight: 500;
+    border-radius: 5px;
+    text-align: center;
+    padding: 5px 1em 5px 1em;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+    &:hover,
+    &:active {
+      text-decoration: none;
+      background-color: pink;
+      color: var(--bg-color);
+    }
+  }
+
+  a.markdown-btn-2 {
+    font-size: 30;
+    font-family: inherit;
+    font-weight: 500;
     color: white;
     background-color: #3F7CAC;
     border-radius: 5px;
@@ -9,7 +32,8 @@ a.markdown-btn {
     text-decoration: none;
     border: none;
     cursor: pointer;
-  
+    display: block;
+    margin: 0 auto;
     &:hover,
     &:active {
       text-decoration: none;

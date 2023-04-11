@@ -39,11 +39,6 @@ The most important things to note when changing the appearance for a given eleme
 
 Now get out there and be an artist 😉
 
-{{< rawhtml >}}
-<iframe src="https://giphy.com/embed/11eSHfUlB284H6" width="480" height="406" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/haydiroket-painting-florida-11eSHfUlB284H6">via GIPHY</a></p>
-{{< /rawhtml >}}
-![](https://giphy.com/gifs/haydiroket-painting-florida-11eSHfUlB284H6)
-
 ---
 
 If you found this post helpful, you might enjoy the full Logseq Mastery course. The course has a wealth of videos, detailed write-ups and diagrams to quickly master Logseq and save you plenty of time and headaches.

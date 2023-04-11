@@ -1,7 +1,7 @@
 baseURL: "precious-meerkat-129d24.netlify.app"
 title: Logseq Mastery blog
 paginate: 5
-theme: hugo-PaperMod
+theme: hugoPaperMod
 
 enableRobotsTXT: true
 buildDrafts: false

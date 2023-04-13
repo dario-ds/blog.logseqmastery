@@ -15,7 +15,7 @@ a.markdown-btn-1 {
     &:hover,
     &:active {
       text-decoration: none;
-      background-color: pink;
+      background-color: #97d937;
       color: var(--bg-color);
     }
   }
@@ -37,7 +37,7 @@ a.markdown-btn-1 {
     &:hover,
     &:active {
       text-decoration: none;
-      background-color: pink;
+      background-color: #4d97d2;
       color: var(--bg-color);
     }
   }

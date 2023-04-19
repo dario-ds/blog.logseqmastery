@@ -114,6 +114,10 @@ menu:
         - identifier: thought pieces
           name: Thought pieces
           url: /categories/thought-pieces
+          weight: 15
+        - identifier: Buy course
+          name: Buy the course
+          url: "https://www.logseqmastery.com?utm_source=blog&utm_medium=navbar"
           weight: 10
         - identifier: search
           name: Search

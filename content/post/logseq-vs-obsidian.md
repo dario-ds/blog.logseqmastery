@@ -1,5 +1,5 @@
 ---
-title: "Logseq vs Obsidian - which PKM tool should I use?"
+title: "Logseq vs Obsidian - which PKM tool should you use?"
 date: 2023-04-19T10:36:00Z
 draft: false
 description: "In an era of information overwhelm, these two tools are leading the charge in helping users manage their personal knowledge."

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>CSS on Logseq Mastery blog</title>
-    <link>precious-meerkat-129d24.netlify.app/tags/css/</link>
+    <link>https://blog.logseqmastery.com/tags/css/</link>
     <description>Recent content in CSS on Logseq Mastery blog</description>
     <image>
       <title>Logseq Mastery blog</title>
-      <url>precious-meerkat-129d24.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>precious-meerkat-129d24.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://blog.logseqmastery.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.logseqmastery.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 27 Feb 2023 15:36:00 +0000</lastBuildDate><atom:link href="precious-meerkat-129d24.netlify.app/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Feb 2023 15:36:00 +0000</lastBuildDate><atom:link href="https://blog.logseqmastery.com/tags/css/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Adding custom CSS to Logseq</title>
-      <link>precious-meerkat-129d24.netlify.app/post/adding-custom-css-to-logseq/</link>
+      <title>Adding custom CSS to your Logseq database</title>
+      <link>https://blog.logseqmastery.com/post/adding-custom-css-to-logseq/</link>
       <pubDate>Mon, 27 Feb 2023 15:36:00 +0000</pubDate>
       
-      <guid>precious-meerkat-129d24.netlify.app/post/adding-custom-css-to-logseq/</guid>
-      <description>Custom CSS is a great way to make your database more visually pleasing. In this guide I break down a simple way to implement CSS in your database.</description>
+      <guid>https://blog.logseqmastery.com/post/adding-custom-css-to-logseq/</guid>
+      <description>Custom CSS is a great way to make your database more visually appealing. In this post I break down a simple way to implement CSS in your database.</description>
     </item>
     
   </channel>

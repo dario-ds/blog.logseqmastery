@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PPP on Logseq Mastery blog</title>
+    <link>https://blog.logseqmastery.com/tags/ppp/</link>
+    <description>Recent content in PPP on Logseq Mastery blog</description>
+    <image>
+      <title>Logseq Mastery blog</title>
+      <url>https://blog.logseqmastery.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.logseqmastery.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 26 Apr 2023 10:36:00 +0000</lastBuildDate><atom:link href="https://blog.logseqmastery.com/tags/ppp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducing purchasing power parity pricing to Logseq Mastery</title>
+      <link>https://blog.logseqmastery.com/post/introducing-purchasing-power-parity-pricing/</link>
+      <pubDate>Wed, 26 Apr 2023 10:36:00 +0000</pubDate>
+      
+      <guid>https://blog.logseqmastery.com/post/introducing-purchasing-power-parity-pricing/</guid>
+      <description>Logseq Mastery now has purchasing power parity (PPP) pricing to make the course more accessible to a global audience.</description>
+    </item>
+    
+    <item>
+      <title>Purchasing power parity pricing eligibility</title>
+      <link>https://blog.logseqmastery.com/ppp-pricing-eligibility/</link>
+      <pubDate>Mon, 24 Apr 2023 10:36:00 +0000</pubDate>
+      
+      <guid>https://blog.logseqmastery.com/ppp-pricing-eligibility/</guid>
+      <description>Logseq Mastery now has purchasing power parity (PPP) pricing to make the course more accessible to a global audience.</description>
+    </item>
+    
+  </channel>
+</rss>

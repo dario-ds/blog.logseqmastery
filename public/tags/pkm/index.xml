@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PKM on Logseq Mastery blog</title>
+    <link>https://blog.logseqmastery.com/tags/pkm/</link>
+    <description>Recent content in PKM on Logseq Mastery blog</description>
+    <image>
+      <title>Logseq Mastery blog</title>
+      <url>https://blog.logseqmastery.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.logseqmastery.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 19 Apr 2023 10:36:00 +0000</lastBuildDate><atom:link href="https://blog.logseqmastery.com/tags/pkm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Logseq vs Obsidian - which PKM tool should you use?</title>
+      <link>https://blog.logseqmastery.com/post/logseq-vs-obsidian/</link>
+      <pubDate>Wed, 19 Apr 2023 10:36:00 +0000</pubDate>
+      
+      <guid>https://blog.logseqmastery.com/post/logseq-vs-obsidian/</guid>
+      <description>In an era of information overwhelm, these two tools are leading the charge in helping users manage their personal knowledge.</description>
+    </item>
+    
+  </channel>
+</rss>

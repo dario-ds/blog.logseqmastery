@@ -2,66 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Logseq Mastery blog</title>
-    <link>precious-meerkat-129d24.netlify.app/post/</link>
+    <link>https://blog.logseqmastery.com/post/</link>
     <description>Recent content in Posts on Logseq Mastery blog</description>
     <image>
       <title>Logseq Mastery blog</title>
-      <url>precious-meerkat-129d24.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>precious-meerkat-129d24.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://blog.logseqmastery.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.logseqmastery.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 27 Feb 2023 15:36:00 +0000</lastBuildDate><atom:link href="precious-meerkat-129d24.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Apr 2023 10:36:00 +0000</lastBuildDate><atom:link href="https://blog.logseqmastery.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Adding custom CSS to Logseq</title>
-      <link>precious-meerkat-129d24.netlify.app/post/adding-custom-css-to-logseq/</link>
+      <title>Logseq vs Obsidian - which PKM tool should you use?</title>
+      <link>https://blog.logseqmastery.com/post/logseq-vs-obsidian/</link>
+      <pubDate>Wed, 19 Apr 2023 10:36:00 +0000</pubDate>
+      
+      <guid>https://blog.logseqmastery.com/post/logseq-vs-obsidian/</guid>
+      <description>In an era of information overwhelm, these two tools are leading the charge in helping users manage their personal knowledge.</description>
+    </item>
+    
+    <item>
+      <title>Introducing purchasing power parity pricing to Logseq Mastery</title>
+      <link>https://blog.logseqmastery.com/post/introducing-purchasing-power-parity-pricing/</link>
+      <pubDate>Wed, 26 Apr 2023 10:36:00 +0000</pubDate>
+      
+      <guid>https://blog.logseqmastery.com/post/introducing-purchasing-power-parity-pricing/</guid>
+      <description>Logseq Mastery now has purchasing power parity (PPP) pricing to make the course more accessible to a global audience.</description>
+    </item>
+    
+    <item>
+      <title>Adding custom CSS to your Logseq database</title>
+      <link>https://blog.logseqmastery.com/post/adding-custom-css-to-logseq/</link>
       <pubDate>Mon, 27 Feb 2023 15:36:00 +0000</pubDate>
       
-      <guid>precious-meerkat-129d24.netlify.app/post/adding-custom-css-to-logseq/</guid>
-      <description>Custom CSS is a great way to make your database more visually pleasing. In this guide I break down a simple way to implement CSS in your database.</description>
+      <guid>https://blog.logseqmastery.com/post/adding-custom-css-to-logseq/</guid>
+      <description>Custom CSS is a great way to make your database more visually appealing. In this post I break down a simple way to implement CSS in your database.</description>
     </item>
     
     <item>
       <title>How to use queries in Logseq</title>
-      <link>precious-meerkat-129d24.netlify.app/post/queries-in-logseq/</link>
+      <link>https://blog.logseqmastery.com/post/queries-in-logseq/</link>
       <pubDate>Fri, 27 Jan 2023 15:36:00 +0000</pubDate>
       
-      <guid>precious-meerkat-129d24.netlify.app/post/queries-in-logseq/</guid>
+      <guid>https://blog.logseqmastery.com/post/queries-in-logseq/</guid>
       <description>Queries give users a powerful mechanism to retrieve information from their databases, and will take your usage of Logseq up a notch. This post is a collection of excerpts from Logseq Mastery.</description>
     </item>
     
     <item>
       <title>How I use Omnivore in my read-it-later workflow for articles</title>
-      <link>precious-meerkat-129d24.netlify.app/post/how-i-use-omnivore-in-my-read-it-later-workflow/</link>
+      <link>https://blog.logseqmastery.com/post/how-i-use-omnivore-in-my-read-it-later-workflow/</link>
       <pubDate>Fri, 16 Dec 2022 10:00:00 +0000</pubDate>
       
-      <guid>precious-meerkat-129d24.netlify.app/post/how-i-use-omnivore-in-my-read-it-later-workflow/</guid>
+      <guid>https://blog.logseqmastery.com/post/how-i-use-omnivore-in-my-read-it-later-workflow/</guid>
       <description>Discover Omnivore, the read-it-later app that organises online content and integrates seamlessly with Logseq.</description>
     </item>
     
     <item>
+      <title>Simplifying your workflow with Logseq templates</title>
+      <link>https://blog.logseqmastery.com/post/logseq-templates/</link>
+      <pubDate>Fri, 16 Dec 2022 10:00:00 +0000</pubDate>
+      
+      <guid>https://blog.logseqmastery.com/post/logseq-templates/</guid>
+      <description>Some example Logseq templates and a text expander workflow (highly recommended!) for simplifying your template input</description>
+    </item>
+    
+    <item>
       <title>How to use namespaces in Logseq</title>
-      <link>precious-meerkat-129d24.netlify.app/post/logseq-namespaces/</link>
+      <link>https://blog.logseqmastery.com/post/logseq-namespaces/</link>
       <pubDate>Wed, 30 Nov 2022 15:36:00 +0000</pubDate>
       
-      <guid>precious-meerkat-129d24.netlify.app/post/logseq-namespaces/</guid>
+      <guid>https://blog.logseqmastery.com/post/logseq-namespaces/</guid>
       <description>Namespaces are a helpful feature in Logseq for those who like top-down approaches to information management. This post is a collection of excerpts from Logseq Mastery</description>
     </item>
     
     <item>
+      <title>Learning how to use Logseq</title>
+      <link>https://blog.logseqmastery.com/post/how-to-use-logseq/</link>
+      <pubDate>Sat, 12 Nov 2022 10:00:00 +0000</pubDate>
+      
+      <guid>https://blog.logseqmastery.com/post/how-to-use-logseq/</guid>
+      <description>Learn how to use Logseq with these in-depth videos taking you through the mental models.</description>
+    </item>
+    
+    <item>
       <title>Logseq and the Rise of the Integrated Thinking Environment</title>
-      <link>precious-meerkat-129d24.netlify.app/logseq-integrated-thinking-environment/</link>
+      <link>https://blog.logseqmastery.com/logseq-integrated-thinking-environment/</link>
       <pubDate>Mon, 30 May 2022 15:36:00 +0000</pubDate>
       
-      <guid>precious-meerkat-129d24.netlify.app/logseq-integrated-thinking-environment/</guid>
+      <guid>https://blog.logseqmastery.com/logseq-integrated-thinking-environment/</guid>
       <description>Every knowledge worker should have an Integrated Thinking Environment. Learn how Logseq can help you become more creative using outlines and links.</description>
     </item>
     
     <item>
       <title>A free introductory YouTube course for Logseq beginners</title>
-      <link>precious-meerkat-129d24.netlify.app/post/free-youtube-course-logseq/</link>
+      <link>https://blog.logseqmastery.com/post/free-youtube-course-logseq/</link>
       <pubDate>Sun, 05 Dec 2021 10:00:00 +0000</pubDate>
       
-      <guid>precious-meerkat-129d24.netlify.app/post/free-youtube-course-logseq/</guid>
+      <guid>https://blog.logseqmastery.com/post/free-youtube-course-logseq/</guid>
       <description>An eight-part YouTube series to introduce you to Logseq and help you grasp the fundamental concepts.&amp;#34;</description>
     </item>
     

@@ -2,129 +2,174 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Logseq Mastery blog</title>
-    <link>precious-meerkat-129d24.netlify.app/tags/</link>
+    <link>https://blog.logseqmastery.com/tags/</link>
     <description>Recent content in Tags on Logseq Mastery blog</description>
     <image>
       <title>Logseq Mastery blog</title>
-      <url>precious-meerkat-129d24.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>precious-meerkat-129d24.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://blog.logseqmastery.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.logseqmastery.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 27 Feb 2023 15:36:00 +0000</lastBuildDate><atom:link href="precious-meerkat-129d24.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Apr 2023 10:36:00 +0000</lastBuildDate><atom:link href="https://blog.logseqmastery.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PPP</title>
+      <link>https://blog.logseqmastery.com/tags/ppp/</link>
+      <pubDate>Wed, 26 Apr 2023 10:36:00 +0000</pubDate>
+      
+      <guid>https://blog.logseqmastery.com/tags/ppp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>comparison</title>
+      <link>https://blog.logseqmastery.com/tags/comparison/</link>
+      <pubDate>Wed, 19 Apr 2023 10:36:00 +0000</pubDate>
+      
+      <guid>https://blog.logseqmastery.com/tags/comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Obsidian</title>
+      <link>https://blog.logseqmastery.com/tags/obsidian/</link>
+      <pubDate>Wed, 19 Apr 2023 10:36:00 +0000</pubDate>
+      
+      <guid>https://blog.logseqmastery.com/tags/obsidian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PKM</title>
+      <link>https://blog.logseqmastery.com/tags/pkm/</link>
+      <pubDate>Wed, 19 Apr 2023 10:36:00 +0000</pubDate>
+      
+      <guid>https://blog.logseqmastery.com/tags/pkm/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>CSS</title>
-      <link>precious-meerkat-129d24.netlify.app/tags/css/</link>
+      <link>https://blog.logseqmastery.com/tags/css/</link>
       <pubDate>Mon, 27 Feb 2023 15:36:00 +0000</pubDate>
       
-      <guid>precious-meerkat-129d24.netlify.app/tags/css/</guid>
+      <guid>https://blog.logseqmastery.com/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>customisation</title>
-      <link>precious-meerkat-129d24.netlify.app/tags/customisation/</link>
+      <link>https://blog.logseqmastery.com/tags/customisation/</link>
       <pubDate>Mon, 27 Feb 2023 15:36:00 +0000</pubDate>
       
-      <guid>precious-meerkat-129d24.netlify.app/tags/customisation/</guid>
+      <guid>https://blog.logseqmastery.com/tags/customisation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Boolean logic</title>
-      <link>precious-meerkat-129d24.netlify.app/tags/boolean-logic/</link>
+      <link>https://blog.logseqmastery.com/tags/boolean-logic/</link>
       <pubDate>Fri, 27 Jan 2023 15:36:00 +0000</pubDate>
       
-      <guid>precious-meerkat-129d24.netlify.app/tags/boolean-logic/</guid>
+      <guid>https://blog.logseqmastery.com/tags/boolean-logic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>properties</title>
-      <link>precious-meerkat-129d24.netlify.app/tags/properties/</link>
+      <link>https://blog.logseqmastery.com/tags/properties/</link>
       <pubDate>Fri, 27 Jan 2023 15:36:00 +0000</pubDate>
       
-      <guid>precious-meerkat-129d24.netlify.app/tags/properties/</guid>
+      <guid>https://blog.logseqmastery.com/tags/properties/</guid>
       <description></description>
     </item>
     
     <item>
       <title>queries</title>
-      <link>precious-meerkat-129d24.netlify.app/tags/queries/</link>
+      <link>https://blog.logseqmastery.com/tags/queries/</link>
       <pubDate>Fri, 27 Jan 2023 15:36:00 +0000</pubDate>
       
-      <guid>precious-meerkat-129d24.netlify.app/tags/queries/</guid>
+      <guid>https://blog.logseqmastery.com/tags/queries/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Omnivore</title>
-      <link>precious-meerkat-129d24.netlify.app/tags/omnivore/</link>
+      <link>https://blog.logseqmastery.com/tags/omnivore/</link>
       <pubDate>Fri, 16 Dec 2022 10:00:00 +0000</pubDate>
       
-      <guid>precious-meerkat-129d24.netlify.app/tags/omnivore/</guid>
+      <guid>https://blog.logseqmastery.com/tags/omnivore/</guid>
       <description></description>
     </item>
     
     <item>
       <title>read-it-later</title>
-      <link>precious-meerkat-129d24.netlify.app/tags/read-it-later/</link>
+      <link>https://blog.logseqmastery.com/tags/read-it-later/</link>
       <pubDate>Fri, 16 Dec 2022 10:00:00 +0000</pubDate>
       
-      <guid>precious-meerkat-129d24.netlify.app/tags/read-it-later/</guid>
+      <guid>https://blog.logseqmastery.com/tags/read-it-later/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>templates</title>
+      <link>https://blog.logseqmastery.com/tags/templates/</link>
+      <pubDate>Fri, 16 Dec 2022 10:00:00 +0000</pubDate>
+      
+      <guid>https://blog.logseqmastery.com/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>namespaces</title>
-      <link>precious-meerkat-129d24.netlify.app/tags/namespaces/</link>
+      <link>https://blog.logseqmastery.com/tags/namespaces/</link>
       <pubDate>Wed, 30 Nov 2022 15:36:00 +0000</pubDate>
       
-      <guid>precious-meerkat-129d24.netlify.app/tags/namespaces/</guid>
+      <guid>https://blog.logseqmastery.com/tags/namespaces/</guid>
       <description></description>
     </item>
     
     <item>
       <title>organisation</title>
-      <link>precious-meerkat-129d24.netlify.app/tags/organisation/</link>
+      <link>https://blog.logseqmastery.com/tags/organisation/</link>
       <pubDate>Wed, 30 Nov 2022 15:36:00 +0000</pubDate>
       
-      <guid>precious-meerkat-129d24.netlify.app/tags/organisation/</guid>
+      <guid>https://blog.logseqmastery.com/tags/organisation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bi-directional linking</title>
-      <link>precious-meerkat-129d24.netlify.app/tags/bi-directional-linking/</link>
+      <link>https://blog.logseqmastery.com/tags/bi-directional-linking/</link>
       <pubDate>Mon, 30 May 2022 15:36:00 +0000</pubDate>
       
-      <guid>precious-meerkat-129d24.netlify.app/tags/bi-directional-linking/</guid>
+      <guid>https://blog.logseqmastery.com/tags/bi-directional-linking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>integrated thinking environment</title>
-      <link>precious-meerkat-129d24.netlify.app/tags/integrated-thinking-environment/</link>
+      <link>https://blog.logseqmastery.com/tags/integrated-thinking-environment/</link>
       <pubDate>Mon, 30 May 2022 15:36:00 +0000</pubDate>
       
-      <guid>precious-meerkat-129d24.netlify.app/tags/integrated-thinking-environment/</guid>
+      <guid>https://blog.logseqmastery.com/tags/integrated-thinking-environment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>knowledge work</title>
-      <link>precious-meerkat-129d24.netlify.app/tags/knowledge-work/</link>
+      <link>https://blog.logseqmastery.com/tags/knowledge-work/</link>
       <pubDate>Mon, 30 May 2022 15:36:00 +0000</pubDate>
       
-      <guid>precious-meerkat-129d24.netlify.app/tags/knowledge-work/</guid>
+      <guid>https://blog.logseqmastery.com/tags/knowledge-work/</guid>
       <description></description>
     </item>
     
     <item>
       <title>outliners</title>
-      <link>precious-meerkat-129d24.netlify.app/tags/outliners/</link>
+      <link>https://blog.logseqmastery.com/tags/outliners/</link>
       <pubDate>Mon, 30 May 2022 15:36:00 +0000</pubDate>
       
-      <guid>precious-meerkat-129d24.netlify.app/tags/outliners/</guid>
+      <guid>https://blog.logseqmastery.com/tags/outliners/</guid>
       <description></description>
     </item>
     
